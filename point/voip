@@ -1,0 +1,2 @@
+netstat 可以看到哪些port已經被占走了
+netstat -ulntp
